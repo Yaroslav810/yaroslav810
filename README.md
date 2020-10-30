@@ -2,9 +2,16 @@
 
 [![Header](https://github.com/Yaroslav810/yaroslav810/blob/main/assets/Header.png)](https://github.com/Yaroslav810)
 
-About me
+## Full stack Beginner Developer
 
-Languages and Tools
+### Languages and Tools
+![Php](https://img.shields.io/badge/-PHP-332828?style=flat&logo=php&logoWidth=20)
+![MySQL](https://img.shields.io/badge/-MySQL-332828?style=flat&logo=mysql&logoWidth=20)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-332828?style=flat&logo=postgresql&logoWidth=20)
+![React](https://img.shields.io/badge/-React-332828?style=flat&logo=react&logoWidth=20)
+![Vue](https://img.shields.io/badge/-Vue.JS-332828?style=flat&logo=vue.js&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-332828?style=flat&logo=javascript&logoWidth=20)
+![NGINX](https://img.shields.io/badge/-Nginx-332828?style=flat&logo=nginx&logoWidth=20)
 
 Follow me
 <!--
