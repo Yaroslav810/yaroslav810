@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 [![Header](https://github.com/Yaroslav810/yaroslav810/blob/main/assets/Header.png)](https://github.com/Yaroslav810)
 
@@ -18,7 +18,6 @@
 [![VK](https://img.shields.io/badge/-VK-332828?style=for-the-badge&logo=vk&logoWidth=20)](https://vk.com/yarosstf)
 [![Instagram](https://img.shields.io/badge/-Instagram-332828?style=for-the-badge&logo=instagram&logoWidth=20&logoColor=FFFFFF)](https://www.instagram.com/yaroslav018/)
 [![GitHub](https://img.shields.io/badge/-GitHub-332828?style=for-the-badge&logo=github&logoWidth=20)](https://github.com/Yaroslav810)
-
 
 <!--
 **Yaroslav810/yaroslav810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
