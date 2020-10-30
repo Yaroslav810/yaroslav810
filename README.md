@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://github.com/Yaroslav810/yaroslav810/blob/main/assets/Header.png)])(https://github.com/Yaroslav810)
+[![Header](https://github.com/Yaroslav810/yaroslav810/blob/main/assets/Header.png)](https://github.com/Yaroslav810)
 
 About me
 
