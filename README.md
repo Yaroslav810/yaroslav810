@@ -5,9 +5,9 @@
 ## Full stack Beginner Developer
 
 ### Languages and Tools
-![Php](https://img.shields.io/badge/-PHP-332828?style=flat&logo=php&logoWidth=20)
-![MySQL](https://img.shields.io/badge/-MySQL-332828?style=flat&logo=mysql&logoWidth=20)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-332828?style=flat&logo=postgresql&logoWidth=20)
+![Php](https://img.shields.io/badge/-PHP-332828?style=for-the-badge&logo=php&logoWidth=20)
+![MySQL](https://img.shields.io/badge/-MySQL-332828?style=for-the-badge&logo=mysql&logoWidth=20)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-332828?style=for-the-badge&logo=postgresql&logoWidth=20)
 ![React](https://img.shields.io/badge/-React-332828?style=flat&logo=react&logoWidth=20)
 ![Vue](https://img.shields.io/badge/-Vue.JS-332828?style=flat&logo=vue.js&logoWidth=20)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-332828?style=flat&logo=javascript&logoWidth=20)
