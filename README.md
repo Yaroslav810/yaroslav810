@@ -13,7 +13,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-332828?style=flat&logo=javascript&logoWidth=20)
 ![NGINX](https://img.shields.io/badge/-Nginx-332828?style=flat&logo=nginx&logoWidth=20)
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-332828?style=for-the-badge&logo=telegram&logoWidth=20)](https://t.me/yarostf)
+[![VK](https://img.shields.io/badge/-VK-332828?style=for-the-badge&logo=vk&logoWidth=20)](https://vk.com/yarosstf)
+[![Instagram](https://img.shields.io/badge/-Instagram-332828?style=for-the-badge&logo=instagram&logoWidth=20&logoColor=FFFFFF)](https://www.instagram.com/yaroslav018/)
+[![GitHub](https://img.shields.io/badge/-GitHub-332828?style=for-the-badge&logo=github&logoWidth=20)](https://github.com/Yaroslav810)
+
+
 <!--
 **Yaroslav810/yaroslav810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
