@@ -28,6 +28,14 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-332828?style=for-the-badge&logo=instagram&logoWidth=20&logoColor=FFFFFF)](https://www.instagram.com/with_yaroslav/)
 [![GitHub](https://img.shields.io/badge/-GitHub-332828?style=for-the-badge&logo=github&logoWidth=20)](https://github.com/Yaroslav810)
 
+
+## GitHub Analytics
+
+<a href="https://github.com/yaroslav810">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yaroslav810&theme=algolia&include_all_commits=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yaroslav810&theme=algolia&layout=compact&langs_count=6"/>
+</a>
+
 <!--
 **Yaroslav810/yaroslav810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
