@@ -33,7 +33,7 @@
 
 <a href="https://github.com/yaroslav810">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yaroslav810&theme=algolia&include_all_commits=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yaroslav810&theme=algolia&layout=compact&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yaroslav810&theme=algolia&layout=compact&hide=css"/>
 </a>
 
 <!--
